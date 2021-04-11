@@ -1,0 +1,8 @@
+# Ignore everything but the .gitkeep files
+auth/*
+certs/*
+data/*
+
+!auth/.gitkeep
+!certs/.gitkeep
+!data/.gitkeep
